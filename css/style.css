@@ -6756,6 +6756,9 @@ a,
 .testimonial-position {
     font-style: italic;
 }
+.testimonial-text p{
+    font-size: 14px;
+}
 .testimonial-text p:last-child {
     margin: 0;
 }
@@ -6873,7 +6876,7 @@ a,
 .testimonial-4 {
     background-color: #2C4A6B;
     position: relative;
-    padding: 30px 40px 30px 10px;
+    padding: 10px 20px 10px 0px;
     margin-left: 140px;
     min-height: 150px;
 }
@@ -6959,7 +6962,7 @@ a,
         transform: skewX(-10deg);
     }
     .testimonial-4 {
-        padding: 25px 10px 25px 0px;
+        padding: 10px 10px 10px 0;
         margin-left: 110px;
     }
 }
