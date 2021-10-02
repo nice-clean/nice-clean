@@ -6522,9 +6522,6 @@ a,
 }
 /*== accordian no cover border with content area ==*/
 
-.dez-accordion.no-cover .acod-body {
-    border: none;
-}
 .dez-accordion.no-cover .acod-content {
     padding-left: 20px;
     margin-right: 10px;
@@ -6997,7 +6994,6 @@ a,
 .pricingtable-price {
     padding: 20px 20px;
     background-color: #F4F7F8;
-    border: 1px solid #E9E9E9;
 }
 .pricingtable-bx {
     font-size: 50px;
