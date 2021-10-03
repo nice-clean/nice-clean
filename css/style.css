@@ -1753,6 +1753,11 @@ dl dd {
     opacity: 1;
     width: 100%;
     margin-bottom: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 /* Skew */
 
